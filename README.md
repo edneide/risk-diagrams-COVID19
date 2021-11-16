@@ -5,4 +5,6 @@ The proposed methodology can be found at https://www.frontiersin.org/articles/10
 
 In the figure below, you can see the risk diagram for Brazil, where the blue dots represents the last 30 days, and the white one represents the current situation.
 
+![](risk_diagram_Brazil.jpg)
+
 
